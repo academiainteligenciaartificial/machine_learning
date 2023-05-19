@@ -1,3 +1,5 @@
+![portada_machine_learning](portada_machine_learning.jpg)
+
 # Curso online: Programador AI en Machine Learning con Python 2023 español
 
 ## Academia Inteligencia Artificial
@@ -17,5 +19,3 @@ Para las personas que compraron el curso de forma online
 ## Propiedad intelectual de
 
 Magister en Inteligencia Artificial Christian Quicano
-
-![portada_machine_learning](portada_machine_learning.jpg)
