@@ -18,4 +18,4 @@ Para las personas que compraron el curso de forma online
 
 Magister en Inteligencia Artificial Christian Quicano
 
-![portada_machine_learning]('https://github.com/academiainteligenciaartificial/machine_learning/blob/1fff0c3445214a4009c3463091913c7e7fe008a9/portada_machine_learning.jpg')
+![portada_machine_learning](portada_machine_learning.jpg)
