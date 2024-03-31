@@ -1,6 +1,6 @@
 ![portada_machine_learning](portada_machine_learning.jpg)
 
-# Curso online: Programador AI en Machine Learning con Python 2023 español
+# Curso online: Programador AI en Machine Learning con Python 2024 español
 
 ## Academia Inteligencia Artificial
 
